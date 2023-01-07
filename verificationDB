@@ -1,0 +1,8 @@
+SIV Verification File
+Directory: important_directory
+Hash Function: sha1
+File Name	File Size	Owner	Group	Access Rights	Last Modified	Hash
+important_directory/testfile.txt	0	elias	elias	644	2023-01-07 16:03:30	DA39A3EE5E6B4B0D3255BFEF95601890AFD80709
+important_directory/xmltest.xml	0	elias	elias	644	2023-01-07 16:03:41	DA39A3EE5E6B4B0D3255BFEF95601890AFD80709
+important_directory/subdir	4096	elias	elias	755	2023-01-07 16:04:22	directory
+important_directory/subdir/another.txt	0	elias	elias	644	2023-01-07 16:04:22	DA39A3EE5E6B4B0D3255BFEF95601890AFD80709

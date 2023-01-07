@@ -1,0 +1,7 @@
+SIV Report File
+Directory: important_directory
+Verification File: verificationDB
+Number of parsed Files: 3
+Number of parsed Directories: 1
+Hash Function: sha1
+Time of Initialization (in seconds): 0

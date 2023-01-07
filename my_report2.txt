@@ -1,0 +1,10 @@
+SIV Report File
+Directory: important_directory
+Verification File: verificationDB
+Hash Function: sha1
+Number of Parsed Files: 3
+Number of Parsed Directories: 1
+Number of Deleted Files: 0
+Number of New Files: 0
+Number of Changed Files: 0
+Warnings:
